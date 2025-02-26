@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Cuantos mililitros va a comprar'
+5
+1
+3
+mil
+6
+3
+4
+valo
+8
+mil*4500
+3
+iva
+11
+valo*19/100
+2
+tp
+8
+valo+iva
+4
+1
+27
+'Su valor a pagar es  ' ,tp
+1
